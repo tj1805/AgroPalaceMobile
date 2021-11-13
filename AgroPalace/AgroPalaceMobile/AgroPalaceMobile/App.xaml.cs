@@ -10,7 +10,8 @@ namespace AgroPalaceMobile
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new CreateAccount());
+            //MainPage =  new CreateAccount();
         }
 
         protected override void OnStart()

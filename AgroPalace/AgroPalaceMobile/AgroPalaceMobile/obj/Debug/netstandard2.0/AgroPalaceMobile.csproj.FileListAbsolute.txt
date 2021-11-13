@@ -1,0 +1,17 @@
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\AgroPalaceMobile.csprojAssemblyReference.cache
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\AgroPalaceMobile.AssemblyInfoInputs.cache
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\AgroPalaceMobile.AssemblyInfo.cs
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\AgroPalaceMobile.csproj.CoreCompileInputs.cache
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\AgroPalaceMobile.dll
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\ref\AgroPalaceMobile.dll
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\AgroPalaceMobile.pdb
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\bin\Debug\netstandard2.0\AgroPalaceMobile.deps.json
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\bin\Debug\netstandard2.0\AgroPalaceMobile.dll
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\bin\Debug\netstandard2.0\ref\AgroPalaceMobile.dll
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\bin\Debug\netstandard2.0\AgroPalaceMobile.pdb
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\CreateAccount.xaml.g.cs
+C:\Users\Arinola\MyProject\AgroPalace\AgroPalace\AgroPalaceMobile\AgroPalaceMobile\obj\Debug\netstandard2.0\CarouselPage.xaml.g.cs

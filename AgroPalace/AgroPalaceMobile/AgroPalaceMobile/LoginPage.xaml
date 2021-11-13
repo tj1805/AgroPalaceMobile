@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             NavigationPage.HasNavigationBar="False"
+             x:Class="AgroPalaceMobile.LoginPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="60"></RowDefinition>
+            </Grid.RowDefinitions>
+            <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand">
+                <Frame BackgroundColor="White"
+                       CornerRadius="30"
+                       HasShadow="True"
+                       HorizontalOptions="FillAndExpand"
+                       VerticalOptions="FillAndExpand">
+                    <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand">
+                        <Label Text="Sign in"
+                               Margin=" 50"
+                               Padding="50"
+                               TextColor="Black"
+                               HorizontalOptions="CenterAndExpand"
+                               FontSize="Large">
+                        </Label>
+
+                        <Frame BackgroundColor="#b6b3aa" BorderColor="Black" Padding="0" 
+                               CornerRadius="50" HeightRequest="60">
+                            <StackLayout Orientation="Horizontal"  HorizontalOptions="StartAndExpand" >
+                                <Entry Placeholder="Email"></Entry>
+                            </StackLayout>
+                        </Frame>
+                        <Frame BackgroundColor="#b6b3aa" BorderColor="Black" Padding="0" 
+                               CornerRadius="50" HeightRequest="60">
+                            <StackLayout Orientation="Horizontal"  HorizontalOptions="StartAndExpand" >
+                                <Entry Placeholder="Password"></Entry>
+                            </StackLayout>
+                        </Frame>
+                        <Label Text="Forget password? "
+                               HorizontalOptions="CenterAndExpand"
+                               TextColor="Black"
+                               Padding="0, 20, 0 ,0"
+                               FontSize="Medium">
+                        </Label>
+
+                        <Button Text="sign in"
+                                HorizontalOptions="CenterAndExpand"
+                                BackgroundColor="#feb702"
+                                BorderColor="ForestGreen"
+                                WidthRequest="450"
+                                HeightRequest="60"
+                                Margin="5,60, 5, 5"
+                                CornerRadius="40" 
+                                Clicked="Button_Clicked">
+
+                        </Button>
+
+                    </StackLayout>
+
+                </Frame>
+                
+            </StackLayout>
+            <Label Text=" Create Account"
+                   TextColor="Blue"
+                      HorizontalOptions="CenterAndExpand"
+                   TextDecorations="Underline"
+                   FontSize="Large"
+                   Grid.Row="1">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                </Label.GestureRecognizers>
+                
+            </Label>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
