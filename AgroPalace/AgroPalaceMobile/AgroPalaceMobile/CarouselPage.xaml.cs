@@ -53,6 +53,10 @@ namespace AgroPalaceMobile
             return groupData;
         }
 
+        private async void TapGestureRecognizer_Tapped(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new TabPage());
+        }
     }
 
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vq0hb6v4HDcnBfq5LEtJ99sOLZEH64gt4fGI/hrvlFPRTQ6M9Fve+QRP+XYKrOvmQWJvewZvLshl4CazpI2J4Q==",
+  "dgSpecHash": "dgXN0ZPy6zQl6nU34K2JAwGR1N9zZzz5C24ih707/dKgLOBgBuojEWhFSc19DW1BTPjpfdZAZ92Gs7pnIN6tbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arinola\\MyProject\\AgroPalace\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile.Android\\AgroPalaceMobile.Android.csproj",
+  "projectFilePath": "C:\\Users\\Arinola\\Desktop\\New folder\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile.Android\\AgroPalaceMobile.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arinola\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Arinola\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

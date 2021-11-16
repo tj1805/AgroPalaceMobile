@@ -45,21 +45,10 @@
                                 <Entry Placeholder="Password" IsPassword="True"></Entry>
                             </StackLayout>
                         </Frame>
-                     
+
 
                         <Button Text="Create Account"
-                                HorizontalOptions="CenterAndExpand"
-                                BorderColor="ForestGreen"
-                                BackgroundColor="#feb702"
-                                WidthRequest="450"
-                                TextColor="Black"
-                                HeightRequest="60"
-                                Margin="5,60, 5, 5"
-                                CornerRadius="40"
-                               >
-
-                        </Button>
-
+                                Style="{StaticResource inButoon}" />
                     </StackLayout>
 
                 </Frame>

@@ -47,7 +47,12 @@
                       HorizontalOptions="CenterAndExpand"
                    TextDecorations="Underline"
                    FontSize="Large"
-                   Grid.Row="1"/>
+                   Grid.Row="1"  >
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                </Label.GestureRecognizers>
+            </Label>
+
         </Grid>
     </ContentPage.Content>
 </ContentPage>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0a4qfXGW+6PaC1DLQuxUdn0xJA6Lbf7eoSkXHeXbGc5BV4KARm2XPl5XNGXRMrRAULkfOyKToia3OYD1Tl7Gtw==",
+  "dgSpecHash": "xWjfrOpEHG3qe/NQP8aCst3gm5n44xqO4rCaR7eAKugYmxvrFazA/9195w8ShICwURmayHNheIh2oTZVWkYrVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arinola\\MyProject\\AgroPalace\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile\\AgroPalaceMobile.csproj",
+  "projectFilePath": "C:\\Users\\Arinola\\Desktop\\New folder\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile\\AgroPalaceMobile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arinola\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Arinola\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

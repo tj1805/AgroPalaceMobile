@@ -10,7 +10,9 @@ namespace AgroPalaceMobile
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new CreateAccount());
+              //  MainPage = new NavigationPage(new CreateAccount());
+            //  MainPage = new HomePage();
+           MainPage = new TabPage();
             //MainPage =  new CreateAccount();
         }
 

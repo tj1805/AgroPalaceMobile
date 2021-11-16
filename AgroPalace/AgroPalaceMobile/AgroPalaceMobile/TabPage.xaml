@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:local="clr-namespace:AgroPalaceMobile"
+             x:Class="AgroPalaceMobile.TabPage">
+    <TabBar  >
+        <Tab Icon="home.png">
+            <ShellContent>
+                <local:HomePage/>
+            </ShellContent>
+        </Tab>
+        <Tab  Icon="bell.png">
+            <ShellContent>
+                <local:AddCard/>
+            </ShellContent>
+        </Tab>
+        <Tab  Icon="add.png">
+            <ShellContent>
+                <local:AddCard/>
+            </ShellContent>
+        </Tab>
+        <Tab Icon="cart.png">
+            <ShellContent>
+                <local:AddCard/>
+            </ShellContent>
+        </Tab>
+
+        <Tab  Icon="orders.png">
+            <ShellContent>
+                <local:AddCard/>
+            </ShellContent>
+        </Tab>
+
+    </TabBar>
+</Shell>
+<!-- note i input   xmlns:local="clr-namespace:AgroPalaceMobile" in this page so as to reference the pages i will be putiing in the tab-->

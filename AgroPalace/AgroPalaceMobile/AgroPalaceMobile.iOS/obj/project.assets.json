@@ -983,20 +983,20 @@
   },
   "packageFolders": {
     "C:\\Users\\Arinola\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arinola\\MyProject\\AgroPalace\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile.iOS\\AgroPalaceMobile.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Arinola\\Desktop\\New folder\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile.iOS\\AgroPalaceMobile.iOS.csproj",
       "projectName": "AgroPalaceMobile.iOS",
-      "projectPath": "C:\\Users\\Arinola\\MyProject\\AgroPalace\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile.iOS\\AgroPalaceMobile.iOS.csproj",
+      "projectPath": "C:\\Users\\Arinola\\Desktop\\New folder\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile.iOS\\AgroPalaceMobile.iOS.csproj",
       "packagesPath": "C:\\Users\\Arinola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arinola\\MyProject\\AgroPalace\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Arinola\\Desktop\\New folder\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\Arinola\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1013,8 +1013,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Arinola\\MyProject\\AgroPalace\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile\\AgroPalaceMobile.csproj": {
-              "projectPath": "C:\\Users\\Arinola\\MyProject\\AgroPalace\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile\\AgroPalaceMobile.csproj"
+            "C:\\Users\\Arinola\\Desktop\\New folder\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile\\AgroPalaceMobile.csproj": {
+              "projectPath": "C:\\Users\\Arinola\\Desktop\\New folder\\AgroPalace\\AgroPalaceMobile\\AgroPalaceMobile\\AgroPalaceMobile.csproj"
             }
           }
         }

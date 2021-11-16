@@ -47,15 +47,8 @@
                         </Label>
 
                         <Button Text="sign in"
-                                HorizontalOptions="CenterAndExpand"
-                                BackgroundColor="#feb702"
-                                BorderColor="ForestGreen"
-                                WidthRequest="450"
-                                HeightRequest="60"
-                                Margin="5,60, 5, 5"
-                                CornerRadius="40" 
+                               Style="{StaticResource inButoon}"
                                 Clicked="Button_Clicked">
-
                         </Button>
 
                     </StackLayout>

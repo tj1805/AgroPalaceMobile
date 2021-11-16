@@ -6,6 +6,18 @@
              mc:Ignorable="d"
              x:Class="AgroPalaceMobile.App">
     <Application.Resources>
-
+        <ResourceDictionary>
+            
+            <!---signin and login  Button-->
+            <Style x:Key="inButoon" TargetType="Button">
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
+                <Setter Property="BackgroundColor" Value="#feb702"/>
+                <Setter Property="BorderColor" Value="ForestGreen"/>
+                <Setter Property="WidthRequest" Value="450"/>
+                <Setter Property="HeightRequest" Value="60"/>
+                <Setter Property="Margin" Value="5, 60, 5, 5"/>
+                <Setter Property="CornerRadius" Value="40"/>
+            </Style>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
