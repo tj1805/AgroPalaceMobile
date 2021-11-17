@@ -21,42 +21,49 @@ namespace AgroPalaceMobile
             {
                 Name = "Apple",
                 Description = "This stuff is good fro the body",
-                ImageUrl="Bcarousel.jpg",
+                Price=12.95,
+                ImageUrl="mangoo.jpg",
             },
               new Fruit
               {
                   Name = "Apple",
                   Description = "This stuff is good fro the body",
-                  ImageUrl = "Bcarousel.jpg",
+                     Price=12.95,
+                  ImageUrl = "mangoo.jpg",
               },
                new Fruit
               {
                   Name = "Apple",
                   Description = "This stuff is good fro the body",
-                  ImageUrl = "Bcarousel.jpg",
+                     Price=12.95,
+                  ImageUrl = "mangoo.jpg",
               },
                 new Fruit
               {
                   Name = "Apple",
                   Description = "This stuff is good fro the body",
-                  ImageUrl = "Bcarousel.jpg",
+                     Price=12.95,
+                  ImageUrl = "mangoo.jpg",
               },
                  new Fruit
               {
                   Name = "Apple",
                   Description = "This stuff is good fro the body",
-                  ImageUrl = "Bcarousel.jpg",
+                     Price=12.95,
+                  ImageUrl = "mangoo.jpg",
               },
                   new Fruit
               {
                   Name = "Apple",
                   Description = "This stuff is good fro the body",
+                     Price=12.95,
                   ImageUrl = "Bcarousel.jpg",
               },
                    new Fruit
               {
                   Name = "Apple",
                   Description = "This stuff is good fro the body",
+                     Price=12.95,
                   ImageUrl = "Bcarousel.jpg",
               },
           };

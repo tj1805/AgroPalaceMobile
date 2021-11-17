@@ -157,4 +157,10 @@
   <ItemGroup>
     <BundleResource Include="Resources\orders.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mango.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mangoo.jpg" />
+  </ItemGroup>
 </Project>

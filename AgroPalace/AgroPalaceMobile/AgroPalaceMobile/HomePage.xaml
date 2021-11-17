@@ -4,41 +4,42 @@
             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              x:Class="AgroPalaceMobile.HomePage">
     <ContentPage.Content>
-      
-         
-     <CollectionView x:Name="FruitCollectionView" HeightRequest="200" ItemsSource="{Binding fruits}" >
-             <CollectionView.ItemsLayout>
-                    <GridItemsLayout  Orientation="Vertical" />
-             </CollectionView.ItemsLayout>
-         <CollectionView.ItemTemplate>
+        <Grid>
+          
+
+        <CollectionView x:Name="FruitCollectionView" HeightRequest="200" ItemsSource="{Binding fruits}"
+                        ItemsLayout="VerticalGrid, 2">
+            <CollectionView.ItemTemplate>
             <DataTemplate>
+                    <Frame BackgroundColor="Wheat" CornerRadius="10" 
+                           HeightRequest="300" WidthRequest="200" HasShadow="True">
                     <Grid Padding="10">
                         <Grid.RowDefinitions>
-                            <RowDefinition Height="Auto" />
-                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="59" />
+                            <RowDefinition Height="49"/>
                         </Grid.RowDefinitions>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="Auto" />
-                            <ColumnDefinition Width="Auto" />
-                        </Grid.ColumnDefinitions>
-                        <Image Grid.RowSpan="2"
-                       Source="{Binding ImageUrl}"
-                       Aspect="AspectFill"
-                       HeightRequest="60"
-                       WidthRequest="60" />
-                        <Label Grid.Column="1"
+                      
+                        <Image Source="{Binding ImageUrl}"
+                       Aspect="Fill"
+                       HeightRequest="50"
+                       WidthRequest="150" />
+                        <Label Grid.Row="1"
                        Text="{Binding Name}"
                        FontAttributes="Bold" />
-                        <Label Grid.Row="1"
+                        <Label Grid.Row="2"
                        Grid.Column="1"
-                       Text="{Binding Description}"
+                       Text="{Binding Price}"
                        FontAttributes="Italic"
                        VerticalOptions="End" />
                     </Grid>
-<!-- look through microsoft documebtartion , try and ceheck the correct binding context  -->
+                    </Frame>
+                    <!-- look through microsoft documebtartion , try and ceheck the correct binding context  -->
                 </DataTemplate>
      </CollectionView.ItemTemplate>
 </CollectionView>
+        </Grid>
+
 
     </ContentPage.Content>
 </ContentPage>

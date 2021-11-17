@@ -1266,3 +1266,5 @@ C:\Users\Arinola\Desktop\New folder\AgroPalace\AgroPalaceMobile\AgroPalaceMobile
 C:\Users\Arinola\Desktop\New folder\AgroPalace\AgroPalaceMobile\AgroPalaceMobile.Android\obj\Debug\100\res\drawable\add.png
 C:\Users\Arinola\Desktop\New folder\AgroPalace\AgroPalaceMobile\AgroPalaceMobile.Android\obj\Debug\100\res\drawable\cart.png
 C:\Users\Arinola\Desktop\New folder\AgroPalace\AgroPalaceMobile\AgroPalaceMobile.Android\obj\Debug\100\res\drawable\orders.png
+C:\Users\Arinola\Desktop\New folder\AgroPalace\AgroPalaceMobile\AgroPalaceMobile.Android\obj\Debug\100\res\drawable\mango.jpg
+C:\Users\Arinola\Desktop\New folder\AgroPalace\AgroPalaceMobile\AgroPalaceMobile.Android\obj\Debug\100\res\drawable\mangoo.jpg
