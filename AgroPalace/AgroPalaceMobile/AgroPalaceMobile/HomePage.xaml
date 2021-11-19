@@ -7,12 +7,12 @@
         <Grid>
           
 
-        <CollectionView x:Name="FruitCollectionView" HeightRequest="200" ItemsSource="{Binding fruits}"
-                        ItemsLayout="VerticalGrid, 2">
-            <CollectionView.ItemTemplate>
-            <DataTemplate>
+        <CollectionView x:Name="FruitCollectionView" HeightRequest="200" ItemsSource="{Binding fruits}" 
+                        ItemsLayout="VerticalGrid, 2"  >
+            <CollectionView.ItemTemplate  spacing="10">
+            <DataTemplate >
                     <Frame BackgroundColor="Wheat" CornerRadius="10" 
-                           HeightRequest="300" WidthRequest="200" HasShadow="True">
+                           HeightRequest="300" WidthRequest="200" HasShadow="True" >
                     <Grid Padding="10">
                         <Grid.RowDefinitions>
                             <RowDefinition Height="*" />
